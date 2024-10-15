@@ -1,0 +1,13 @@
+*.txt
+*.log
+*.prof
+
+*.coverage.out
+*.exe
+go.work
+go.work.sum
+
+.env
+
+bin/
+dist/
